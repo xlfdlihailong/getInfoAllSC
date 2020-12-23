@@ -100,6 +100,9 @@ void thread_getDiskUsageRootAndStateSC(pstring host) {
         pstring strCpuSC=getUsageCPU(host);
         lres.append(strCpuSC);
 
+        pstring strMemSC=getUsageMem(host);
+        lres.append(strMemSC);
+
         mut.lock();
         csglAll.mapInfo[host] = lres;
         mut.unlock();
@@ -119,7 +122,18 @@ pstring getUsageCPU(pstring host) {
 //    hlog(cpu);
     return cpu;
 }
-
+pstring getUsageMem(pstring host) {
+    pstring cpu=plib::xsh(host,"ps aux|grep SCService|grep -v grep");
+//    hlog(cpu);
+    pliststring lres=cpu.split(" ");
+//    hlog(lres);
+    if(lres.size()>3)
+        cpu=lres[3]+"%";
+    else
+        cpu="获取失败";
+//    hlog(cpu);
+    return cpu;
+}
 int main() {
     hlog("程序已重新启动");
     hlog(plib::killProcessAllByNameSelfExceptSelf());
