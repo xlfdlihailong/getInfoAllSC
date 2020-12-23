@@ -1,0 +1,16 @@
+QMAKE_DEFAULT_INCDIRS = \
+    /usr/local/include/c++/7.3.0 \
+    /usr/local/include/c++/7.3.0/x86_64-pc-linux-gnu \
+    /usr/local/include/c++/7.3.0/backward \
+    /usr/local/lib/gcc/x86_64-pc-linux-gnu/7.3.0/include \
+    /usr/local/include \
+    /usr/local/lib/gcc/x86_64-pc-linux-gnu/7.3.0/include-fixed \
+    /usr/include
+QMAKE_DEFAULT_LIBDIRS = \
+    /usr/local/lib/gcc/x86_64-pc-linux-gnu/7.3.0 \
+    /usr/local/lib64 \
+    /lib64 \
+    /usr/lib64 \
+    /usr/local/lib \
+    /lib \
+    /usr/lib

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="红米10x4g (d593e873-279f-4e48-b0dd-c762642fb4fb)">
+    <serverData>
+      <paths name="106.12.222.93 (0a9458a4-8b97-48b1-9e3c-728009889a62)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="12.3 (f81f1b8a-4bbb-461d-8fed-1475e3b19b97)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="14.9 (64846679-38a0-4597-8d7b-9a1abdd3964c)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="172.16.78.2 (3905db36-615f-495c-b1e8-08f570b396bd)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.j7XD6TMdf2" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-17216782" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="192.168.31.72 (ad20abbd-4681-4a81-9dd7-b5ced5d09a7c)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.xs2D4IyH6V" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-1921683172" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="192.168.31.9 (0105c9dc-82aa-42b6-8d3f-013f27482ece)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.ihZyZNVS2E" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-192168319" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="192.168.72.216 (b86d5451-f449-4fad-9776-4d4e47e7e63f)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.lgS67aD19n" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-19216872216" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="192.168.72.225 (5efb8f71-ef05-4ba5-9a73-39aaf0e8f6bd)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.bBnjDbphu8" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-19216872225" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="4m (c6e30680-a706-4230-bcda-fd5eb0106142)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.vZX0AZqPpM" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-4m" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-4m" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="4m3 (1699f408-83b9-421a-80fe-ea3254443a0a)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="w11.6 (b26f33c8-47c2-4afb-aeec-24daa9ee0031)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.G1fgv6ZlXj" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-w116" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-w116" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="w12.3 (e8cbaadb-6be0-4000-a54a-ec812f8e1fc7)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.oSm92EqBve" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-w123" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="小米2 (68fb2aea-172b-4d9f-a6ac-8fee2c293805)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="荣耀6p (d36d0c10-4ec9-4e9c-8411-aa447a7f9aea)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

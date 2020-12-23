@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4199f869-beff-4305-8f98-23d1ede530e1" name="4m线路">
+        <fileTransfer accessType="SFTP" host="172.16.11.6" port="22" sshConfigId="60ff4d0d-80de-4740-970a-52aea332f121" sshConfig="11.6">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
