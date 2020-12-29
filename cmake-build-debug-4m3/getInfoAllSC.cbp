@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="getInfoAllSC"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j32 -f &quot;/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j32 -f &quot;/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j32 -f &quot;/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j32 -f &quot;/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j32 -f &quot;/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j32 -f &quot;/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j32 -f &quot;/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j32 -f &quot;/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="getInfoAllSC">
+				<Option output="/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/getInfoAllSC" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7/backward"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.4.7/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/local/lib/gcc/x86_64-pc-linux-gnu/7.3.0/include"/>
+					<Add directory="/usr/local/lib/gcc/x86_64-pc-linux-gnu/7.3.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j32 -f &quot;/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/Makefile&quot;  VERBOSE=1 getInfoAllSC"/>
+					<CompileFile command="/usr/bin/gmake -j32 -f &quot;/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j32 -f &quot;/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j32 -f &quot;/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="getInfoAllSC/fast">
+				<Option output="/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/getInfoAllSC" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7/backward"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.4.7/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/local/lib/gcc/x86_64-pc-linux-gnu/7.3.0/include"/>
+					<Add directory="/usr/local/lib/gcc/x86_64-pc-linux-gnu/7.3.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j32 -f &quot;/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/Makefile&quot;  VERBOSE=1 getInfoAllSC/fast"/>
+					<CompileFile command="/usr/bin/gmake -j32 -f &quot;/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j32 -f &quot;/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j32 -f &quot;/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j32 -f &quot;/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j32 -f &quot;/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j32 -f &quot;/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j32 -f &quot;/tmp/tmp.t5Wt37BHlI/cmake-build-debug-4m3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.t5Wt37BHlI/main.cpp">
+			<Option target="getInfoAllSC"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.t5Wt37BHlI/main.h">
+			<Option target="getInfoAllSC"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.t5Wt37BHlI/plib/clib.c">
+			<Option target="getInfoAllSC"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.t5Wt37BHlI/plib/clib.h">
+			<Option target="getInfoAllSC"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.t5Wt37BHlI/plib/plib.cpp">
+			<Option target="getInfoAllSC"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.t5Wt37BHlI/plib/plib.h">
+			<Option target="getInfoAllSC"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.t5Wt37BHlI/plib/pmysql.cpp">
+			<Option target="getInfoAllSC"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.t5Wt37BHlI/plib/pmysql.h">
+			<Option target="getInfoAllSC"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.t5Wt37BHlI/plib/pxml.cpp">
+			<Option target="getInfoAllSC"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.t5Wt37BHlI/plib/pxml.h">
+			<Option target="getInfoAllSC"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.t5Wt37BHlI/plib/tinystr.cpp">
+			<Option target="getInfoAllSC"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.t5Wt37BHlI/plib/tinystr.h">
+			<Option target="getInfoAllSC"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.t5Wt37BHlI/plib/tinyxml.cpp">
+			<Option target="getInfoAllSC"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.t5Wt37BHlI/plib/tinyxml.h">
+			<Option target="getInfoAllSC"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.t5Wt37BHlI/plib/tinyxmlerror.cpp">
+			<Option target="getInfoAllSC"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.t5Wt37BHlI/plib/tinyxmlparser.cpp">
+			<Option target="getInfoAllSC"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.t5Wt37BHlI/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
